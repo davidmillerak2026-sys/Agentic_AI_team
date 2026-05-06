@@ -72,16 +72,6 @@ The runtime is intentionally small and local-first:
 - `AgentTeam`: runs selected agents and passes outputs through a blackboard.
 - `TeamReport`: exports Markdown or JSON for GitHub issues, investor notes, PoC plans, or founder logs.
 
-## Why Separate From WearEdge Pro
-
-WearEdge Pro is the industrial product. WearEdge Agent Team is the founder operating system. Keeping them separate makes the team reusable for:
-
-- WearEdge Pro product planning
-- industrial RAG experiments
-- customer PoC preparation
-- GitHub README and launch writing
-- future robotics, factory, or edge AI projects
-
 ## Optional LLM Provider
 
 By default, the project uses an offline deterministic planner. It works without a model server or cloud API.
