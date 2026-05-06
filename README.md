@@ -1,5 +1,7 @@
 # WearEdge Agent Team
 
+[![Tests](https://github.com/davidmillerak2026-sys/Agentic_AI_team/actions/workflows/tests.yml/badge.svg)](https://github.com/davidmillerak2026-sys/Agentic_AI_team/actions/workflows/tests.yml)
+
 AI-native solo-founder operating system for Ryan Hui and WearEdge Pro.
 
 This repository turns the "one founder + nine AI agents" idea into runnable code. The team can research markets, optimize edge AI algorithms, design distributed architecture, build software, reason about hardware manufacturability, productize industrial workflows, check compliance, prepare customer success work, and write media or fundraising narratives.
